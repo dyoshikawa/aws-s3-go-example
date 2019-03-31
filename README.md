@@ -54,3 +54,9 @@ export S3_BUCKET=YOUR_S3_BUCKET_NAME
 ```
 make run
 ```
+
+## 確認
+
+```
+make localstack-uploads
+```
